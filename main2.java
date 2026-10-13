@@ -2,7 +2,7 @@ class Student {
     String name;
 }
 
-public class Main {
+public class main2{
     public static void main(String[] args) {
         Student s1 = new Student();
         s1.name = "Rahul";
