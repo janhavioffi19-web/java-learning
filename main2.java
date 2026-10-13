@@ -5,7 +5,7 @@ class Student {
 public class main2{
     public static void main(String[] args) {
         Student s1 = new Student();
-        s1.name = "Rahul";
+        s1.name = "Rahulgit ";
 
         Student s2 = s1;
         s2.name = "Amit";
